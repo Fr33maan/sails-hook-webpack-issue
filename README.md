@@ -1,3 +1,3 @@
 # testapp
 
-a [Sails](http://sailsjs.org) application
+This repo has been created to reproduce an issue
